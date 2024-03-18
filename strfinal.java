@@ -87,9 +87,7 @@ class strfinal
 			System.out.println(third.trim());
 			break;
 			
-			/*case 13:
-			System.out.println(first.startWith('d'));
-			break;*/
+			
 			
 			
 		}
